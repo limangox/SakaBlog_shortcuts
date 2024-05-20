@@ -7,4 +7,5 @@ A Shortcuts for download image from sakamichi blog
 
 
 # URL
+## ver 1.1.2
 https://www.icloud.com/shortcuts/815987e03f704d92b1a0f1d74224b50d
